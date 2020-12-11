@@ -1,0 +1,3 @@
+LangsamerServo	KEYWORD1
+amZiel	KEYWORD2
+tic	KEYWORD2
