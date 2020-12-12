@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 36 - Von der Klasse zur Bibliothek 2
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/oB5KGzpFNBU
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Wie wird eine Klasse zu einer Bibliothek, die von jedem Projekt verwendet werden kann? Eine dreiteilige Serie soll diese Frage beantworten. Im ersten Teil entwickeln eine Klasse für ein langsamen Servo. Dabei wird die Klasse in Header- und Implementationsfile aufgeteilt. In der nächsten Lektion wird dann die Klasse in eine Bibliothek umgewandelt. Im dritten Teil erweitern wir die Bibliothek um weitere Funktionen, ohne bestehenden Code zu beeinträchtigen.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/84
 
 Falls du mich unterstützen möchtest:
 

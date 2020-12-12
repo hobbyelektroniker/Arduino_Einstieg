@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der schnelle Einstieg in Arduino & Co. 1: Erste Versuche
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/CkObbLxJMI4
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Wir haben das Material erhalten und bereiten alles vor. Mindestens eine LED sollten wir doch zum Blinken bringen.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

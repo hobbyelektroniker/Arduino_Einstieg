@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 28 - Die String-Klasse 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/KWvg-8bD5EU
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Die Klasse String vereinfacht den Umgang mit Zeichenketten enorm. Doch es gibt aber auch Nachteile.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/71
 
 Falls du mich unterstützen möchtest:
 

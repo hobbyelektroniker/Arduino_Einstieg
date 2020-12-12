@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 29 - ... und wo bleibt das & Co.? 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/S6ejwOwxa-k
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Diesmal gibt es keine neuen Lerninhalte. Ich zeige aber an einem Beispiel, wie man ein nicht-Arduino Board in die Arduino IDE einbindet und ein Beispielprogramm ausführt.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/73
 
 Falls du mich unterstützen möchtest:
 

@@ -1,11 +1,13 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 4: Digitale Ausgänge
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/PX4EtHKhN_w
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Da dieser Einstieg in den Arduino vermutlich noch einige Zeit dauern wird, habe ich die Serie umbenannt. Neu läuft das unter dem Titel 'Der einfache Einstieg in den Arduino'.
+
+Wir lernen, wie man mit digitalen Ausgängen arbeitet. Ausserdem bringen wir dem Arduino bei über den seriellen Monitor mit uns zu kommunizieren. 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

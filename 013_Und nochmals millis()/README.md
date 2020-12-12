@@ -1,11 +1,12 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 13: Spielereien mit millis()
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/RtTtCMj_LDE
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Weiter geht es mit den millis(). Wir spielen etwas mit dem Timing unserer 5 Led's. Die Lektion ist nicht ganz einfach, man kann aber viel dabei lernen.
+Das ist die Letzte der 'schwierigen' Lektionen. Ab nächster Woche geht es entspannter und praxisorientierter mit Sensoren und Aktoren weiter. 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

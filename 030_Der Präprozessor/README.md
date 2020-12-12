@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 30 - #define und andere Präprozessorbefehle
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/wzl5dLsxH2k
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Die Programmiersprache C bietet auch leistungsfähige Makro-Befehle an. Diese werden von einem Präprozessor vor dem eigentlichen Kompilierungsvorgang abgearbeitet. Wir werfen heute einen Blick auf #define, #include, #ifdef und ähnliche Befehle.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/73
 
 Falls du mich unterstützen möchtest:
 

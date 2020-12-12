@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 33 - Klassen und Objekte 3 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/WYPMm3NOG1k
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Jetzt erzeugen wir noch eine Klasse zur Ansteuerung einer analogen Led. Bei diese Gelegenheit sprechen wird auch noch über Klassen- und Instanzvariablen. Wir bauen einen Instanzzähler und lernen dabei auch den Destruktor kennen.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/78
 
 Falls du mich unterstützen möchtest:
 

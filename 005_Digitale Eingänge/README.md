@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 5: Digitale Eingänge
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/6ue1MGzFUkc
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Jetzt beschäftigen wir uns mit digitalen Eingängen und wieso PULLUP ein wichtiger Begriff ist.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

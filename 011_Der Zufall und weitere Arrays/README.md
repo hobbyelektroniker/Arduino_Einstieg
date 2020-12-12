@@ -1,11 +1,14 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 11: Der Zufall und weitere Arrays
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/b02KwXSZAI8
+Das Lösungsvideo: https://youtu.be/S-1Krx9_FTM
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Mit dem Würfel aus der letzten Lektion wollen wir jetzt auch würfeln. Dazu braucht es ein Zufallselement. Damit die Ergebnisse aber auch wirklich zufällig sind, müssen einige Dinge beachtet werden. Bei dieser Gelegenheit lernst du auch noch den switch .. case Befehl kennen.
+
+In der Übungsaufgabe überprüfen wir, wie fair unser Würfel arbeitet. Diese kleine Aufgabe ist wieder einmal eine gute Übung zum Thema Array. Kommst du auf ähnliche Ergebnisse?
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

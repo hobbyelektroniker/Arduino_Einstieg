@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 31 - Klassen und Objekte 1 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/2c8z-O5Yskc
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Das ist der Start zu einer mehrteiligen Einführung in die objektorientierte Programmierung. Klassen und Objekte sind Bestandteil beinahe jeder Arduino - Bibliothek. Eigene Klassen zu erstellen eröffnet uns neue Möglichkeiten. In dieser Lektion beginnen wir sehr einfach. Es geht nur darum, eine einfache Klasse zu erstellen und zu verwenden. 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/78
 
 Falls du mich unterstützen möchtest:
 

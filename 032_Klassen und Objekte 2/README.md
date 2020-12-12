@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 32 - Klassen und Objekte 2 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/OakwZpxA6pY
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Jetzt verwenden wir Vererbung um eine neue Klasse zur Steuerung einer echten digitalen Led zu erstellen. Als Basisklasse dient die Led - Simulation aus Lektion 31. 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/78
 
 Falls du mich unterstützen möchtest:
 

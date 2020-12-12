@@ -1,11 +1,13 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 7: Analoge Eingänge
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/Rxr71G7TNeU
+Das Lösungsvideo: https://youtu.be/erkAPpZ2NQw
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Ein Voltmeter, ein automatisches Licht und eine Alarmanlage. Das sind Beispiele, die wir im Zusammenhang mit analogen Eingängen am Arduino anschauen. Da die Lösung der Aufgaben schon etwas komplizierter ist, gibt es ein eigenes Lösungsvideo dazu. Das Lösungsvideo wird gleichzeitig mit diesem Video freigeschaltet.
+
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

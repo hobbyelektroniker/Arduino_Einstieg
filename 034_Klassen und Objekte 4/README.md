@@ -1,11 +1,12 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 34 - Klassen und Objekte 4 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/e6vNHg9WIcU
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Diesmal erweitern wir unsere Basisklasse um eine neue Fähigkeit. Diese Fähigkeit steht dann sofort auch allen abgeleiteten Klassen zur Verfügung.
+Das ist eine grossartige Eigenschaft der Vererbung, die dir in grösseren Projekten viel Arbeit ersparen kann.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/78
 
 Falls du mich unterstützen möchtest:
 

@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 27 - C-Strings 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/QspKi32jOPE
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Strings (Zeichenketten) sind ein wichtiger Bestandteil in jeder Programmiersprache. In C werden diese ähnlich wie Arrays behandelt, haben aber wichtige Eigenheiten. Auf die String - Klasse gehen wir in dieser Lektion noch nicht ein.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/69
 
 Falls du mich unterstützen möchtest:
 

@@ -1,11 +1,15 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 8: Analoge Ausgänge
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/zGa-8W14mvM
+Das Lösungsvideo: https://youtu.be/3kxeiAAmtv8
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Diesmal geben wir analoge Werte aus. Der Arduino stellt dafür den Befehl analogWrite() zur Verfügung. Aber hat der Arduino überhaupt richtige analoge Ausgänge?
+
+Ich zeige dir im Lösungsvideo zwei verschiedene Lösungsvarianten zur Übungsaufgabe.
+Vielleicht hast du ja eine noch bessere Lösung gefunden?
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 22: Speicheradressen und Zeiger
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/cRB2T1ghvVg
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Heute wieder einmal eine geballte Portion Programmierung. Wie legt ein Arduino - Sketch seine Variablen im Speicher ab und was sind Zeiger, die auf diese Speicherplätze verweisen? Das sind Fragen, die hier geklärt werden. Zeiger, auch Pointer genannt, sind eine wichtige Grundlage für die nächste Lektion. Dort wird dann die Parameterübergabe an Funktionen näher betrachtet.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 26 - Von der Idee zum Projekt 
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/BXyUDU7lYYs
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Du möchtest ein Projekt realisieren, aber schon nach kurzer Zeit verlierst du die Übersicht. Vielleicht ist es dir auch schon so ergangen. An einem einfachen Beispiel realisieren wir in diesem Video ein Projekt, ohne die Kontrolle zu verlieren.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/67
 
 Falls du mich unterstützen möchtest:
 

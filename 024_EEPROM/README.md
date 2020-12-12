@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 24: EEPROM, das Gedächtnis des Arduinos
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/BSe0XIECPOE
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Wie lassen sich Konfigurationsdaten im Arduino speichern, ohne dass sie beim Ausschalten verloren gehen? Das EEPROM erlaubt es bis zu einem Kilobyte Daten dauerhaft auf dem Arduino zu speichern.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/22
 
 Falls du mich unterstützen möchtest:
 

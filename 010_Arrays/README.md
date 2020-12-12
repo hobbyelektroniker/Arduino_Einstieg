@@ -1,11 +1,14 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 10: Arrays
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/qhIZlLmKLW4
+Das Lösungsvideo: https://youtu.be/3U-LgmakvH0
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Arrays sind ein wichtiger Bestandteil jeder Programmiersprache. Sie werden deine Möglichkeiten stark erweitern. Diese Lektion ist recht umfangreich. Plane also etwas Zeit ein, damit du die Beispiele auch nachvollziehen kannst. Eine Diskussion mit anderen Kursteilnehmern im Forum auf https://community.hobbyelektroniker.ch dürfte auch ganz hilfreich sein.
+
+Die Übungsaufgabe ist diesmal nicht besonders schwierig. Die dabei aufgebaute Hardware wird aber in späteren Lektionen nochmals verwendet werden. 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

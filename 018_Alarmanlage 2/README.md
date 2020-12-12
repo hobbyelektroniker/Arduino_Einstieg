@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 18: Alarmanlage 2 - Sensoren in Modulen
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/ATIedo_lldo
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+LDR, PIR und Ultraschallsensor im selben Sketch kann schon etwas unübersichtlich werden. Deshalb teilen wir das Programm auf. Jeder Sensor bekommt eine eigene Datei. Dadurch bleibt der Sketch schön übersichtlich.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 

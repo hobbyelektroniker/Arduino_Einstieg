@@ -1,11 +1,11 @@
-# Der einfache Einstieg in Arduino & Co. - 1: Ankündigung
+# Der einfache Einstieg in Arduino & Co. 17: Alarmanlage 1 - Der Bewegungssensor
  
-https://youtu.be/rSoMa4K5bIk
+https://youtu.be/8CE1HCyHrVo
 
-Für alle, die es etwas genauer wissen möchten. Hier werden die Grundlagen der Sprache Micropython auf eine etwas systematischere Art besprochen. Keine Angst, die erste Lektion ist ganz einfach.
+Wir versuchen eine einfache Alarmanlage zu bauen. Dazu benötigen wir auch einen Bewegungssensor. Der PIR - Sensor von Typ HC-SR501 kann diese Aufgabe gut erfüllen. Unsere Alarmanlage verwendet aber zusätzlich noch einen LDR als Lichtsensor und den Ultraschallsensor aus der vorherigen Lektion. In dieser Lektion schauen wir uns die Sensoren an, in den folgenden zwei Lektionen erweitern wir die Alarmausgabe und schauen, wie man alle Elemente kombiniert.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/50
+https://community.hobbyelektroniker.ch/wbb/index.php?board/24
 
 Falls du mich unterstützen möchtest:
 
