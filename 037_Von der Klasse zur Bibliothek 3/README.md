@@ -1,6 +1,6 @@
 # Der einfache Einstieg in Arduino & Co. 37 - Von der Klasse zur Bibliothek 3
  
-Erscheint am 17.12.2020
+https://youtu.be/QuVrxjdYf5E
 
 Damit andere Programmierer unsere ZIP-Datei einbinden können, müssen wir sie ihnen zur Verfügung stellen. Dazu eignen sich diverse Dienste im Internet. Wir verwenden hier Git, GitHub und GitHub Desktop.
 
