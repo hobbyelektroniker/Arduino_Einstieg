@@ -1,6 +1,6 @@
 # Der einfache Einstieg in Arduino & Co. 38 - Smartdisplay 1: Erste Versuche
  
-Erscheint am 31.12.2020
+https://youtu.be/wUlyVSPUHeE
 
 Wir entwickeln ein smartes Display mit Farbe, TFT und einem eigenen ESP8266 Mikrokontroller. Dies ist der Auftakt zu einer mehrteiligen Serie. Wir werden am Anfang den ESP8266 in die Arduino IDE einbinden, später werden wir dann auf Visual Studio Code und PlatformIO wechseln.
 

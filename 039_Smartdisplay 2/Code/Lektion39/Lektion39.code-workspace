@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Blink",
+			"path": "Blink"
+		},
+		{
+			"name": "DisplayDemo",
+			"path": "DisplayDemo"
+		},
+		{
+			"path": "DisplayTest"
+		}
+	],
+	"settings": {}
+}
