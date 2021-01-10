@@ -1,6 +1,6 @@
-# Der einfache Einstieg in Arduino & Co. 38 - Smartdisplay 2: Visual Studio Code und PlatformIO
+# Der einfache Einstieg in Arduino & Co. 39 - Smartdisplay 2: Visual Studio Code und PlatformIO
  
-Erscheint am 07.01.2021
+https://youtu.be/zDvnHF9hlUI
 
 Zur Entwicklung verwenden wir jetzt Visual Studio Code und PlatformIO. Wie erstellt man ein Projekt und wie bindet man eine Bibliothek ein? Bei dieser Gelegenheit testen wir auch noch eine leistungsfähigere Bibliothek für das Display.
 

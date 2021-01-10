@@ -1,0 +1,2 @@
+// Deklarationen
+void rechneTotal();
