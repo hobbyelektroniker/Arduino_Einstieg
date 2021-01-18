@@ -1,6 +1,7 @@
 # Der einfache Einstieg in Arduino & Co. 40 und 40a - Module und Headerfiles
  
-Erscheint am 14.01.2021
+https://youtu.be/OeLze6wZ1vA
+https://youtu.be/6-MA9_d40JA
 
 Jetzt kommt wieder einmal etwas Theorie. Wenn wir mit .h und .cpp - Dateien arbeiten, gibt es verschiedene Dinge zu beachten. Sonst plagen uns multiple definition und redefinition Fehler.
 Wir lernen den Unterschied von Deklaration und Definition kennen und finden Methoden, wie man Fehlermeldungen vermeiden kann.
