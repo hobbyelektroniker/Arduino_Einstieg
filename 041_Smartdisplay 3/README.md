@@ -1,6 +1,6 @@
 # Der einfache Einstieg in Arduino & Co. 41 - Smartdisplay 3: Eine eigene Klasse
  
-Erscheint am 21.01.2021
+https://youtu.be/w2cHAzAYKWY
 
 Wir erstellen eine eigen Klasse zur Ansteuerung des Displays. Diese Klasse basiert auf der Bodmer-Bibliothek TFT_eSPI ( https://github.com/Bodmer/TFT_eSPI ). Dabei werden alle Methoden und Eigenschaften der Basisklasse übernommen.
 Selbstverständlich arbeiten wir wieder mit Visual Studio Code und PlatformIO.
