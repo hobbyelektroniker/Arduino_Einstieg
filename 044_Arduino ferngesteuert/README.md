@@ -1,6 +1,6 @@
 # Der einfache Einstieg in Arduino & Co. 44 - Arduino ferngesteuert
  
-Erscheint am 11.02.2021
+https://youtu.be/7BvXLSHuNXU
 
 Ein richtiger Gamekontroller erlaubt eine viel bessere Kontrolle des Arduinos als eine Infrarotfernbedienung. Für wenig Geld bekommt man Nachbauten der PS2 - Controller. Wie man diese verwendet, erfahrt ihr in diesem Video. 
 
