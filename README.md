@@ -3,8 +3,10 @@
 
 https://www.youtube.com/playlist?list=PL4dxj1rGc3b29m2h3-0wUUTNVDoM5MmnJ
 
-Dies ist ein Arduino - Einsteigerkurs. Mitteilungen, Diskussionen und gegenseitige Hilfe bei den Übungsaufgaben helfen dir beim Absolvieren des Kurses.
-
+Dies ist ein Arduino - Einsteigerkurs. Mitteilungen, Diskussionen und gegenseitige Hilfe bei den Übungsaufgaben helfen dir beim Absolvieren des Kurses. Dazu steht ein Forum unter
+https://community.hobbyelektroniker.ch zur Verfügung.
+<br>
+<br>
 # Anleitung
 
 ## Herunterladen aller Dateien
