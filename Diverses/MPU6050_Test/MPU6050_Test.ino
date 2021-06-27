@@ -1,3 +1,18 @@
+/* 
+  Verwendung eines MPU6050 Lagesensors
+  
+  Die notwendigen Erkenntnisse zu diesem Code verdanke ich
+  dem Udemy - Kurs von Jan-Oliver Seidenfuss
+  https://www.udemy.com/course/arduino-fuer-macher
+  
+  Version 1.00, 27.06.2021    
+  Der Hobbyelektroniker
+  https://community.hobbyelektroniker.ch
+  https://www.youtube.com/c/HobbyelektronikerCh
+  Der Code kann mit Quellenangabe frei verwendet werden.
+*/
+
+
 #include <Wire.h>
 #include <math.h>
 #include <EEPROM.h>
