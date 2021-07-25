@@ -1,6 +1,6 @@
 # Der einfache Einstieg in Arduino & Co. 46 - Multitasking mit Arduino (2)
  
-Erscheint am 25.03.2021
+https://youtu.be/EWgTPH5X-_s
 
 Das Multitasking wird nun etwas ausgebaut. Unter anderem bauen wir auch eine Taster - Abfrage ein.
 
